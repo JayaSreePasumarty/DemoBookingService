@@ -16,6 +16,7 @@ namespace DemoBookingService.Repository
                 new Booking {Booking_Id = 1, Ticket_Cost = 100},
                 new Booking {Booking_Id = 2, Ticket_Cost = 150},
                 new Booking {Booking_Id = 3, Ticket_Cost = 200},
+                new Booking{Booking_Id=4,Ticket_Cost=255}
 
             };
         }
